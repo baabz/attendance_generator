@@ -1,0 +1,58 @@
+{
+  "institution_name": "KADUNA POLYTECHNIC",
+  "college": "KADUNA POLYTECHNIC",
+  "default_department": "",
+  "departments": [
+    "DEPARTMENT OF COMPUTER ENGINEERING",
+    "DEPARTMENT OF ELECTRICAL & ELECTRONICS ENGINEERING",
+    "DEPARTMENT OF CIVIL ENGINEERING",
+    "DEPARTMENT OF MECHANICAL ENGINEERING",
+    "DEPARTMENT OF CHEMICAL ENGINEERING",
+    "DEPARTMENT OF AGRICULTURAL & BIO-ENVIRONMENTAL ENGINEERING",
+    "DEPARTMENT OF MINERAL & PETROLEUM RESOURCES ENGINEERING",
+    "DEPARTMENT OF COMPUTER SCIENCE",
+    "DEPARTMENT OF MATHEMATICS & STATISTICS",
+    "DEPARTMENT OF SCIENCE LABORATORY TECHNOLOGY",
+    "DEPARTMENT OF BUSINESS ADMINISTRATION",
+    "DEPARTMENT OF ACCOUNTANCY",
+    "DEPARTMENT OF BANKING & FINANCE",
+    "DEPARTMENT OF PUBLIC ADMINISTRATION",
+    "DEPARTMENT OF MASS COMMUNICATION",
+    "DEPARTMENT OF ARCHITECTURE",
+    "DEPARTMENT OF BUILDING TECHNOLOGY",
+    "DEPARTMENT OF QUANTITY SURVEYING",
+    "DEPARTMENT OF URBAN & REGIONAL PLANNING",
+    "DEPARTMENT OF ESTATE MANAGEMENT"
+  ],
+  "levels": [
+    "ND I",
+    "ND II",
+    "HND I",
+    "HND II",
+    "DEGREE 100L",
+    "DEGREE 200L",
+    "DEGREE 300L",
+    "DEGREE 400L"
+  ],
+  "sessions": [
+    "2nd/4th SEMESTER, 2025/2026 SESSION (REGULAR)",
+    "1st/3rd SEMESTER, 2025/2026 SESSION (REGULAR)",
+    "2nd/4th SEMESTER, 2024/2025 SESSION (REGULAR)",
+    "1st/3rd SEMESTER, 2024/2025 SESSION (REGULAR)"
+  ],
+  "standard_venues": [
+    {"name": "MINING THEATER-MPRE", "default_capacity": 50},
+    {"name": "CIVIL ROOM 101/102", "default_capacity": 40},
+    {"name": "CIVIL TRANSPORT LAB", "default_capacity": 50},
+    {"name": "CIVIL DRAWING ROOM", "default_capacity": 50},
+    {"name": "LECTURE THEATER -CHEM ENG", "default_capacity": 60},
+    {"name": "HALL A-MPRE", "default_capacity": 50},
+    {"name": "HALL B-MPRE", "default_capacity": 50},
+    {"name": "HALL C-MPRE", "default_capacity": 50},
+    {"name": "ELECTRONICS LAB-ELECT. ENG'G", "default_capacity": 45},
+    {"name": "CIVIL ROOM 301/302", "default_capacity": 40},
+    {"name": "CENTRAL LECTURE THEATER (CLT)", "default_capacity": 80},
+    {"name": "CONVOCATION SQUARE", "default_capacity": 120},
+    {"name": "NEW AUDITORIUM", "default_capacity": 100}
+  ]
+}
